@@ -1,0 +1,30 @@
+p
+{padding: 0px;
+margin: 0px;
+text-align: center;
+   color: white;
+    font-size: 0px;
+    font-family: "Segoe UI" , monospace;
+}
+
+input
+{
+    width: 100px;
+    height:100px;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
+body
+{
+    min-width: 400px;
+    min-height: 400px;
+    background-color: #000;
+
+}
+
+input
+{border-style:solid;
+    border-color: white;
+ margin: 0px;
+padding: 0px;}
